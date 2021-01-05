@@ -7,4 +7,13 @@ I will increase the complexity of this little script over the course of the week
 Hiccups: I initially did not know how to prompt the user for input and I had to look that up on google. I wanted to do that directly in the console but it seems there is no way of doing that but I'll keep digging. My final string output contained template literals but it was just outputting the template literal as it is, not computing the values. Turns out I need to use backticks for that, not the double quotes I normally use for strings. Also, javascript strings are NOT multiline. Big yikes. Lastly, I noticed my values were being calculated correctly for division and multiplication, but addition was resulting in a concatenated string instead. Turns out I need to do a type conversion (parsing) on the input received via prompt box as it is treated as a string by default. 
 
 I am also going to commit this to github so I can get more comfortable with creating github repositories and using the git bash terminal.
+==============================================================================================================
 
+Day 2:
+
+I refactored my code and wrapped the little script in an arrow function. I'm working on getting more comfortable with ES6 syntax. Also trying to get used to using Git as a normal part of my workflow. Still stumbling but I'm getting the hang of it.
+===============================================================================================================
+
+Day 3:
+
+Still working with the tip calculator script, but now I've made it an object. Getting aquainted with constructors, the "this" keyword and arrow functions as methods. My code isn't working though and now I need to work on something else so I have to let it go for the day. 
